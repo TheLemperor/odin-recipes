@@ -1,0 +1,12 @@
+.link {
+  color:green;
+  font-size:50px;
+}
+
+h2, h1 {
+  color: blue;
+}
+
+p, li {
+  color: lightblue;
+}
